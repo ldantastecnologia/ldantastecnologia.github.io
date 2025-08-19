@@ -45,9 +45,9 @@ hero:
 #  - { icon: "ti-twitter", link: "#" }
 
 #-------------------------------
-# About (Section and Page)
+# Sobre (Section and Page)
 
-# About Section
+# Sobre Section
 blurb: O intuito deste projeto é desenvolver uma estrutura para reutilizar grandes conjuntos de dados clínicos e administrativos que vão permitir a análise comparativa da segurança e eficácia da vacina da Covid-19 no Brasil e no Paquistão. Nesse sentido, trata-se de uma iniciativa que promoverá evidências baseadas em dados do Sul Global.
 
 blurb-btn-link: "/sobre"
