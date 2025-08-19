@@ -1,18 +1,23 @@
 ---
 layout: sobre
-title: About Me
-author: Johnathan Smith
+title: Sobre o projeto
+author: Fiocruz
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+**Vigência:** Início 25/11/2022
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+**Status:** Em Andamento
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+**Coordenação:** Vinícius de Araújo Oliveira.
+
+**Financiamento:** Bill & Melinda Gates Foundation
+
+**Instituições envolvidas:** Cidacs/Fiocruz Bahia; Shaukat Khanum Memorial Cancer Hospital
+
+Uma das estratégias para conter o avanço de pandemias é o monitoramento do processo de vacinação. Entretanto, este não é um processo simples, uma vez que uma análise comparativa de grandes conjuntos de dados de saúde em diferentes cenários é desafiadora. Isso acontece porque existem preocupações com segurança e reprodutibilidade, além da perda do contexto em que os dados foram coletados, o que pode afetar os resultados da pesquisa.
+
+O intuito deste projeto é desenvolver uma estrutura para reutilizar grandes conjuntos de dados clínicos e administrativos que vão permitir a análise comparativa da segurança e eficácia da vacina da Covid-19 no Brasil e no Paquistão. Nesse sentido, trata-se de uma iniciativa que promoverá evidências baseadas em dados do Sul Global.
+
+A estrutura a ser criada fará uma adaptação de padrões e ferramentas da ciência de dados a diferentes cenários do sistema de saúde local, e executarão análises de efetividade de vacinas individuais e conjuntas para os dois países para avaliar a compatibilidade e reprodutibilidade dos resultados.
