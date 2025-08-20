@@ -44,7 +44,7 @@ hero:
  # - { icon: "ti-facebook", link: "#" }
  # - { icon: "ti-instagram", link: "#" }
  # - { icon: "ti-dribbble", link: "#" }
- # - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-twitter", link: "#" }
 
 #-------------------------------
 # About (Section and Page)
