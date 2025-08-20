@@ -40,11 +40,11 @@ menu:
 hero:
   hero-title: Análise comparativa da segurança e eficácia <br>da vacina da Covid-19 no Brasil e no Paquistão
 
-social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+#social:
+ # - { icon: "ti-facebook", link: "#" }
+ # - { icon: "ti-instagram", link: "#" }
+ # - { icon: "ti-dribbble", link: "#" }
+ # - { icon: "ti-twitter", link: "#" }
 
 #-------------------------------
 # About (Section and Page)
