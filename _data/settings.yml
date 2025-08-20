@@ -2,21 +2,21 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Decovacs
 logo:
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+author: Fiocruz
+description: Desenvolver uma estrutura para reutilizar grandes conjuntos de dados clínicos e administrativos que vão permitir a análise comparativa da segurança e eficácia da vacina da Covid-19 no Brasil e no Paquistão. 
+email: vinicius.oliveira@fiocruz.br
+phone: 
+address: Parque Tecnológico da Edf. Tecnocentro, R. Mundo, 121 - sala 315 - Trobogy, Salvador - BA, 41745-715
+copyright: Copyright &copy; 2025 Todos os direitos reservados
 
 menu:
-  - { name: About, link: "/about" }
-  - { name: Sobre, link: "/sobre" }
-  - { name: Blog, link: "/blog" }
-  - { name: Portfolio, link: "/portfolio" }
-  - { name: Contact, link: "/contact" }
+  - { name: O projeto, link: "/projeto" }
+  - { name: Equipe, link: "/equipe" }
+  - { name: Lições Aprendidas, link: "/licoes" }
+  - { name: Publicações, link: "/publicacoes" }
+  - { name: Créditos, link: "/creditos" }
 
 #-------------------------------
 # Google Analytics Section
@@ -26,12 +26,12 @@ menu:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-google-analytics: # UA-XXXXXX-X
+#google-analytics: # UA-XXXXXX-X
 
 #-------------------------------
 # Comment Section (Disqus)
 
-disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+#disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 
 #-------------------------------
 # Hero Section
@@ -49,10 +49,10 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: O intuito deste projeto é desenvolver uma estrutura para reutilizar grandes conjuntos de dados clínicos e administrativos que vão permitir a análise comparativa da segurança e eficácia da vacina da Covid-19 no Brasil e no Paquistão. Nesse sentido, trata-se de uma iniciativa que promoverá evidências baseadas em dados do Sul Global.
 
-blurb-btn-link: "/about"
-blurb-btn-name: know more
+blurb-btn-link: "/projeto"
+blurb-btn-name: Saiba mais
 
 # About Page
 
