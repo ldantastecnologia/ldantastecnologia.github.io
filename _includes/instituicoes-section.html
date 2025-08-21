@@ -6,13 +6,13 @@
       <div class="col-12 text-center">
         <h2 class="section-title">Instituições</h2>
       </div>
-      {% for team-member in site.data.settings.team %}
+      {% for instituicoes-member in site.data.settings.instituicoes %}
       <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
         <div class="card text-center">
-          <img src="{{ team-member.image | relative_url }}" class="card-img-top">
+          <img src="{{ instituicoes-member.image | relative_url }}" class="card-img-top">
           <div class="card-body">
-            <h4 class="card-title">{{ team-member.title }}</h4>
-            <p class="text-light font-secondary">{{ team-member.designation }}</p>
+            <h4 class="card-title">{{ instituicoes-member.title }}</h4>
+            <p class="text-light font-secondary">{{ instituicoes-member.designation }}</p>
           </div>
         </div>
       </div>
