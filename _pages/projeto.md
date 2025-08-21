@@ -1,5 +1,5 @@
 ---
-layout: sobre
+layout: projeto
 title: Sobre o projeto
 author: Fiocruz
 image: assets/images/about/author.jpg
